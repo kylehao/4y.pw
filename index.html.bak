@@ -2,7 +2,11 @@
 <html lang="en" >
 <head>
 <meta charset="UTF-8">
-<title>仿MAC桌面Dock工具栏菜单代码 - 站长素材</title>
+<title>仿MAC桌面带音乐播放器</title>
+
+
+<link rel="stylesheet" href="css/player.css">
+
 
 <link rel="stylesheet" href="css/style.css">
 
@@ -289,7 +293,7 @@ background-color: 000;
 			</li>
 			<li>
 				<span>Siri</span>
-				<a href="#" target="_blank"><img src="images/8.png"></a>
+				<a href="http://blog.444.info" target="_blank"><img src="images/8.png"></a>
 			</li>
 			<li>
 				<span>iTunes</span>
